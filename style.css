@@ -1,0 +1,45 @@
+	body{
+		margin:0px;
+		padding:0px;
+		min-width:1024px;
+		width:100%;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+	#header{
+		margin:0px;
+		padding:px;
+		width:100%;
+		background-color:rgba(51,51,51,1);
+	}
+	#header div{
+		display:inline-block;
+		padding:10px;
+		width:31%;
+	}
+	#links a{
+		color:#FFF;
+		margin-left:15px;
+		font-size:14px;
+		display:inline-block;
+		text-decoration:none;
+	}
+	#welcome{
+		color:#FFF;
+		text-align:center;
+	}
+	#logo{
+		text-align:right;
+	}
+	#footer{
+		background-color:rgba(0,0,0,1);
+		text-align:center;
+		padding:5px;
+		padding-right:0px;
+		padding-left:0px;
+		bottom:0px;
+		position:absolute;
+		width:100%;
+		color:#FFF;
+		font-size:12px;
+		letter-spacing:2px;
+	}
